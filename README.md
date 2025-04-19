@@ -1,8 +1,6 @@
 # Pipeline Test Bench Dataset
 
 This repository contains data collected from a liquid pipeline transportation test bench. The dataset includes various experimental conditions and is intended for research in pipeline system analysis, fault detection, and hydraulic system behavior under different operating conditions.
-## Pipeline Test Bench
-![Pipeline Test Bench](images/pipeline_test_bench.png)
 ## Dataset Overview
 The dataset includes data from experiments conducted on a pipeline system under different operating conditions. The system consists of various sensors such as flow, pressure, and vibration sensors to monitor the pipeline's operational status. A comprehensive inspection is carried out before the experiments to ensure no leakage occurs and that all sensors are functioning and calibrated correctly.
 
@@ -30,8 +28,6 @@ The data is organized in the following manner:
 - **Pump Configurations**: Data was collected under five different pump configurations, ranging from one pump to five pumps activated.
 - **Sampling Rate**: 10 Hz.
 - **Experiment Duration**: 10 minutes for each condition.
-## LabVIEW GUI
-![LabVIEW GUI](images/LabVIEW GUI.png)
 ## Key Parameters of the Pipeline Bench
 - **Pipeline Material**: 304 Stainless Steel Pipe
 - **Total Pipeline Length**: 144 m
