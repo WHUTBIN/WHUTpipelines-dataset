@@ -1,6 +1,8 @@
 # Pipeline Test Bench Dataset
 
 This repository contains data collected from a liquid pipeline transportation test bench. The dataset includes various experimental conditions and is intended for research in pipeline system analysis, fault detection, and hydraulic system behavior under different operating conditions.
+## Pipeline Test Bench
+![Pipeline Test Bench](images/pipeline_test_bench.png)
 ## Dataset Overview
 The dataset includes data from experiments conducted on a pipeline system under different operating conditions. The system consists of various sensors such as flow, pressure, and vibration sensors to monitor the pipeline's operational status. A comprehensive inspection is carried out before the experiments to ensure no leakage occurs and that all sensors are functioning and calibrated correctly.
 
@@ -14,7 +16,8 @@ The data collected includes:
 - Four vibration sensors
 - Two pressure sensors
 - Two flow sensors
-
+## LabVIEW GUI
+![LabVIEW GUI](images/LabVIEW GUI.png)
 ## Data Structure
 The data is organized in the following manner:
 - `data/pump_condition/`: Contains data from experiments under different pump operating conditions, with five pump scenarios corresponding to the operation of the pipeline with one pump, two pumps, three pumps, four pumps, and five pumps activated, respectively.
@@ -36,7 +39,6 @@ The data is organized in the following manner:
 - **Wall Thickness**: 3 mm
 - **Pump Number**: 8 centrifugal pumps forming 4 pump groups
 - **Pressure Range**: 0.2–1.4 MPa
-
 ## How to Use the Data
 You can download the data and load it using Python or MATLAB. Here is a simple example in Python to load a CSV file:
 ```python
