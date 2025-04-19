@@ -42,7 +42,9 @@ You can download the data and load it using Python or MATLAB. Here is a simple e
 ```python
 import pandas as pd
 data = pd.read_csv("path_to_your_data_file.csv")
-
+## Contact
+If you have any questions or suggestions, do not hesitate to contact:
+Mr. Bin Wang, wang_bin@whut.edu.cn
 ## License
 This dataset is licensed under the [MIT License](LICENSE).
 
