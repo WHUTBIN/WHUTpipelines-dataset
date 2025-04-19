@@ -39,14 +39,14 @@ The data is organized in the following manner:
 - **Wall Thickness**: 3 mm
 - **Pump Number**: 8 centrifugal pumps forming 4 pump groups
 - **Pressure Range**: 0.2–1.4 MPa
+## Contact
+If you have any questions or suggestions, do not hesitate to contact:
+Mr. Bin Wang, wang_bin@whut.edu.cn
 ## How to Use the Data
 You can download the data and load it using Python or MATLAB. Here is a simple example in Python to load a CSV file:
 ```python
 import pandas as pd
 data = pd.read_csv("path_to_your_data_file.csv")
-## Contact
-If you have any questions or suggestions, do not hesitate to contact:
-Mr. Bin Wang, wang_bin@whut.edu.cn
 ## License
 This dataset is licensed under the [MIT License](LICENSE).
 
