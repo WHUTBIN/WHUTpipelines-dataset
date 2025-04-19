@@ -47,3 +47,6 @@ data = pd.read_csv("path_to_your_data_file.csv")
 
 ## License
 This dataset is licensed under the [MIT License](LICENSE).
+git add README.md
+git commit -m "Added image to README"
+git push origin main
