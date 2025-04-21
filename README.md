@@ -66,7 +66,7 @@ The data is organized in the following manner:
 - **Pressure Range**: 0.2–1.4 MPa
 ## Contact
 If you have any questions or suggestions, do not hesitate to contact:
-Dr. Bin Wang, wang_bin@whut.edu.cn
+Dr. Bin WANG, wang_bin@whut.edu.cn
 ## How to Use the Data
 You can download the data and load it using Python or MATLAB. Here is a simple example in Python to load a CSV file:
 ```python
