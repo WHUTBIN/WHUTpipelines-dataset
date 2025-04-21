@@ -3,7 +3,8 @@
 This repository contains data collected from a liquid pipeline transportation test bench. The dataset includes various experimental conditions and is intended for research in pipeline system analysis, fault detection, and hydraulic system behavior under different operating conditions.
 ## Pipeline Test Bench
 
-![image](https://github.com/user-attachments/assets/cb3c33d9-1e2d-40a8-9de9-3a3582f78aed)
+![image](https://github.com/user-attachments/assets/0f4e9c86-1e59-4b65-b92c-0cb583769e49)
+
 
 #### Figure.1  Pipeline Test Bench
 
@@ -37,7 +38,11 @@ The data collected includes:
 - Two pressure sensors
 - Two flow sensors
 ## LabVIEW GUI
-![LabVIEW GUI](images/LabVIEW GUI.png)
+![image](https://github.com/user-attachments/assets/49a5892b-0d10-4e96-a938-f41cf4c59b26)
+
+
+
+
 ## Data Structure
 The data is organized in the following manner:
 - `data/pump_condition/`: Contains data from experiments under different pump operating conditions, with five pump scenarios corresponding to the operation of the pipeline with one pump, two pumps, three pumps, four pumps, and five pumps activated, respectively.
