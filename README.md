@@ -2,7 +2,27 @@
 
 This repository contains data collected from a liquid pipeline transportation test bench. The dataset includes various experimental conditions and is intended for research in pipeline system analysis, fault detection, and hydraulic system behavior under different operating conditions.
 ## Pipeline Test Bench
-![Pipeline Test Bench](images/pipeline_test_bench.png)
+
+![image](https://github.com/user-attachments/assets/cb3c33d9-1e2d-40a8-9de9-3a3582f78aed)
+
+#### Figure.1  Pipeline Test Bench
+
+
+
+![image](https://github.com/user-attachments/assets/d29c7a17-5853-4a8a-a4f3-1c1b03a5c685)
+
+
+#### Figure.2  VR Pipeline Test Bench. 
+Supports actual operation/virtual operation of remote pipeline test bench.(可同时支持50+人在线实验与分布式验证)
+
+
+![image](https://github.com/user-attachments/assets/08e5cfc9-4deb-4a93-8661-0a3b921f975e)
+
+#### Figure.3  Pipeline Leak Detection Experiment.
+
+
+
+
 ## Dataset Overview
 The dataset includes data from experiments conducted on a pipeline system under different operating conditions. The system consists of various sensors such as flow, pressure, and vibration sensors to monitor the pipeline's operational status. A comprehensive inspection is carried out before the experiments to ensure no leakage occurs and that all sensors are functioning and calibrated correctly.
 
@@ -41,7 +61,7 @@ The data is organized in the following manner:
 - **Pressure Range**: 0.2–1.4 MPa
 ## Contact
 If you have any questions or suggestions, do not hesitate to contact:
-Mr. Bin Wang, wang_bin@whut.edu.cn
+Dr. Bin Wang, wang_bin@whut.edu.cn
 ## How to Use the Data
 You can download the data and load it using Python or MATLAB. Here is a simple example in Python to load a CSV file:
 ```python
