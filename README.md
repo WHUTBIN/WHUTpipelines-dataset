@@ -4,8 +4,8 @@ This repository contains data collected from a liquid pipeline transportation te
 
 
 ## Paper
-Title: Resilient measurement reconstruction for pipelines: A sequential spatio-temporal fusion approach under concurrent sensor failures
-Journal: Measurements ( 2026)
+CITE: Gou, Ping, Hanhua Zhu, Kuan Cheng, Shidong Fan, Enrico Zio, Wei Wang, and Bin Wang. "Resilient measurement reconstruction for pipelines: A sequential spatio-temporal fusion approach under concurrent sensor failures." Measurement (2026): 121184.
+
 https://doi.org/10.1016/j.measurement.2026.121184
 
 
