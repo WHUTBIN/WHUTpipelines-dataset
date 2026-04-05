@@ -3,7 +3,8 @@
 This repository contains data collected from a liquid pipeline transportation test bench. The dataset includes various experimental conditions and is intended for research in pipeline system analysis, fault detection, and hydraulic system behavior under different operating conditions.
 
 
-Paper: Resilient measurement reconstruction for pipelines: A sequential spatio-temporal fusion approach under concurrent sensor failures
+## Paper
+Title: Resilient measurement reconstruction for pipelines: A sequential spatio-temporal fusion approach under concurrent sensor failures
 Journal: Measurements ( 2026)
 https://doi.org/10.1016/j.measurement.2026.121184
 
